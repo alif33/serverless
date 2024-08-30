@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "functions": {
+      "api/pdf-upload.js": {
+        "runtime": "nodejs16.x"
+      }
+    }
+}
+  

@@ -1,0 +1,9 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.19.2",
+    "formidable": "^3.5.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
